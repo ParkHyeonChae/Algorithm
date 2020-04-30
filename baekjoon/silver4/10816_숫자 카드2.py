@@ -24,4 +24,3 @@ for i in m_list:
 
 for i in result:
     print(i, end=' ')
-        
